@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.jpa.properties.hibernate.format_sql",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.properties.hibernate.format_sql."
+    },
+    {
+      "name": "spring.jpa.hibernate.jdbc.lob.non_contextual_creation",
+      "type": "java.lang.String",
+      "description": "Description for spring.jpa.hibernate.jdbc.lob.non_contextual_creation."
+    }
+  ] }
